@@ -20,9 +20,9 @@ Because Python is awesome, versatile, and makes building cool tools like this a 
 
 ## 🚀 How to Run the Investigation?
 
-1.  Make sure you have Python installed on your Windows machine.
-2.  (Add any specific library installation steps here, e.g., `pip install -r requirements.txt` if you have one)
-3.  Run the main Python script (e.g., `python main_script_name.py`)
+1.  Download the exe on the releases
+2.  Find the exe file on your downloads
+3.  Run the app
 4.  Bask in the glory of knowing your hardware specs!
 
 ## 😎 Go Forth and Be Informed!
