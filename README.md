@@ -28,3 +28,4 @@ Because Python is awesome, versatile, and makes building cool tools like this a 
 ## 😎 Go Forth and Be Informed!
 
 Stop guessing and start knowing! Run the PC Specs Detective and uncover the hardware heroes working tirelessly inside your computer. Happy spec hunting!
+![image](https://github.com/user-attachments/assets/a3e1907a-7c4f-4086-98cb-1813137698e2)
